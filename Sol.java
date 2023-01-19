@@ -1,6 +1,6 @@
 package lab6;
 
-public class Sol {
+public class Soll {
 	public static Object Lock1 = new Object();
 	public static Object Lock2 = new Object();
 	public static Object Lock3 = new Object();
